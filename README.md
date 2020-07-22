@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 
-[Factura](https://github.com/SANMH/SOA-Prueba1/master/factura.xml)
+[Factura](https://github.com/SANMH/SOA-Prueba1/master/fatura.xml)
 
 
 You can use the [editor on GitHub](https://github.com/SANMH/SOA-Prueba1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
