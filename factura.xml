@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+	<cliente>
+		<registro>
+			<cod_fac>1</cod_fac>
+			<ruc_empresa>1718409988</ruc_empresa>
+			<cedula>1718409988</cedula>
+			<nombre>Fernando</nombre>
+			<apellido>Sanmartin</apellido>
+			<anio>2020</anio>
+			<mes>7</mes>
+			<dia>22</dia>
+			<telefono>984660105</telefono>
+			<direccion>la magdalena</direccion>
+			<cantidad>50</cantidad>
+			<detalle>compra de 50 peluches, 
+10 dolares americanos cada uno.</detalle>
+			<forma_de_pago>efectivo</forma_de_pago>
+			<total>500</total>
+		</registro>
+	</cliente>
