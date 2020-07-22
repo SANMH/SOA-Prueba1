@@ -1,12 +1,15 @@
+# Arquitectura Oriendata a Servicios
 
-#Integrantes 
+Iintegrantes
 
-##Andres Alvear
+- Andres Alvear
+- Bryan Farinango
+- Alberte Heredia
+- Fernando Sanmartin
+- Erick Vargas
 
-##Bryan Farinango
+### Pagina de XML
 
-##Alberte Heredia
+# [DPELUCHES](https://sanmh.github.io/SOA-Prueba1/)
 
-##Fernando Sanmartin
-
-##Erick Vargas
+[Factura.xml](https://sanmh.github.io/SOA-Prueba1/)
