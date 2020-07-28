@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="estilosdocumento.css"?>
+
+<cliente xmlns="http://www.w3.org/1999/xhtml">
+<div class="padre"> 
+	<h1 align="center">FACTURA  
+		
+	<img src="tuspeluchesFacebook1.jpg" alt="DPeluches" width="304" height="228"/>
+	</h1>
+	  	<br/>
+		<registro>
+			<cod_fac>1</cod_fac>
+			<ruc_empresa>1718409988</ruc_empresa>
+			<cedula>1718409988</cedula>
+			<identificacion>
+			<nombre>Fernando</nombre>
+			<apellido>Sanmartin</apellido>
+			</identificacion>
+			<fecha> 
+			<anio>2020</anio>
+			<mes>julio</mes>
+			<dia>22</dia>
+			</fecha>
+			<telefono>movil</telefono>
+			<direccion>la magdalena</direccion>
+			<cantidad>50</cantidad>
+			<detalle>compra de 50 peluches, 
+10 dolares americanos cada uno.</detalle>
+			<forma_de_pago>efectivo</forma_de_pago>
+			<total>500</total>
+		</registro>
+		</div>
+	</cliente>

@@ -1,0 +1,91 @@
+.padre {
+    background-color: #fafafa;
+    margin: 1rem;
+    padding: 1rem;
+    border: 2px solid #ccc;
+    text-align: left;
+  }
+.h1{
+    text-align: center;
+}
+cliente,img {
+    display: table;
+    border-spacing: 10px;
+    border: 2px solid black;  
+    background-color:whitesmoke;
+    margin: auto;
+    
+    
+  }
+  
+  [class=F]{
+      color: black;
+      text-align: center;
+      font-size: 50px;
+  }
+  [class=P]{
+      color: black;
+      text-align: center;
+      font-size: 30px;
+  }
+
+
+  cod_fac, ruc_empresa,cedula, identificacion, nombre apellido, fecha, anio mes dia, telefono,direccion,
+  cantidad, detalle,forma_de_pago,total
+  
+  {
+      display: block;
+      margin-left: 50px;
+      border-spacing: 10px;
+      border: black;
+      color: #2F4F4F;
+      padding: 5px;
+      font-size: 20px;
+  }
+  
+  cod_fac:before{
+      content: "Código Factura: ";
+      color: black;
+  }
+  ruc_empresa:before{
+      content: "Ruc de la Empresa: ";
+      color: black;
+  }
+  cedula:before{
+      content: "Cédula: ";
+      color: black;
+  }
+
+  identificacion:before {
+      content:"Nombre del Cliente: ";
+      color: black;
+  }
+  
+ fecha::before{
+      content: "Fecha de la compra: ";
+      color: black;
+  }
+  telefono:before{
+      content: "Tipo de Telefono: ";
+      color: black;
+  }
+  direccion:before{
+      content: "Dirección del Cliente: ";
+      color: black;  
+  }
+  cantidad:before{
+      content: "Cantidad en unidades: ";
+      color: black;
+  }
+  detalle:before{
+      content: "Detalle: ";
+      color: black;
+  }
+  forma_de_pago:before{
+      content: "Forma de Pago: ";
+      color: black;
+  }
+  total:before{
+      content: "Total: $ ";
+      color: black;
+  }
